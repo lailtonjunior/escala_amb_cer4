@@ -99,7 +99,4 @@ Exportação para Excel
 🤝 Contribuição
 Pull requests são bem-vindos! Para mudanças significativas, abra uma issue antes para discutir o que você gostaria de modificar.
 
-📄 Licença
-MIT License
-
 Desenvolvido por Lailton Junior
