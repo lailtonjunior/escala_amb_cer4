@@ -102,4 +102,4 @@ Pull requests são bem-vindos! Para mudanças significativas, abra uma issue ant
 📄 Licença
 MIT License
 
-Desenvolvido com 💙 por Lailton Junior
+Desenvolvido por Lailton Junior
